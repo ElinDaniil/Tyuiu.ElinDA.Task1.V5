@@ -1,0 +1,5 @@
+SupplierCode,OrderCode,SupplierName,DaysUntilArrival,AmountOfOrder
+1, 3536, Gazprom, 5, 20
+2, 3536, Rostelekom, 15, 60
+3, 8726, MTS, 5, 20
+4, 1111, MTS, 5, 20
